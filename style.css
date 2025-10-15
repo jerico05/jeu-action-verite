@@ -1,0 +1,52 @@
+.container {
+    text-align: center;
+    width: 400px;
+    height: 550px;
+    margin: 100px auto;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+
+.container h2 {
+    font-size: 40px;
+    padding-top: 20px;
+}
+.nom-jeu {
+    width: 150px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: rgb(117, 185, 138);
+    font-size: 40px;
+    background-color: rgb(117, 185, 138);
+    border-radius: 10px;
+}
+
+.instru-container {
+    position: relative;
+    top: 20px;
+    left: 5px;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.instru-container p {
+    padding: 20px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.button-container {
+    padding-top: 50px;
+    margin-left: 5px;
+}
+.button-container button {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin: 0 20px;
+    background-color: rgb(117, 185, 138);
+    border-radius: 10px;
+}
